@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QoolStarAPI:jar">
+    <output-path>$USER_HOME$/Desktop/PluginTest/plugins</output-path>
+    <root id="archive" name="QoolStarAPI.jar">
+      <element id="module-output" name="QoolStarAPI" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/fr/minuskube/inv/smart-invs/1.2.7/smart-invs-1.2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

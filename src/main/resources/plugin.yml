@@ -1,0 +1,5 @@
+name: QoolStarAPI
+version: ${project.version}
+main: me.pan.qoolstarapi.QoolStarAPI
+authors: [Pan]
+description: A Buffed Stone System!
