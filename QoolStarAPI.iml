@@ -21,10 +21,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.github.tr7zw:Item-NBT-API:master-6ef5af2093-1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.tr7zw.Item-NBT-API:item-nbt-api:master-6ef5af2093-1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.tr7zw.Item-NBT-API:item-nbt-api-plugin:master-6ef5af2093-1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.tr7zw.Item-NBT-API:nbt-injector:master-6ef5af2093-1" level="project" />
+    <orderEntry type="library" name="Maven: fr.minuskube.inv:smart-invs:1.2.7" level="project" />
     <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-sync:3.10.1" level="project" />
     <orderEntry type="library" name="Maven: org.mongodb:bson:3.10.1" level="project" />
     <orderEntry type="library" name="Maven: org.mongodb:mongodb-driver-core:3.10.1" level="project" />
-    <orderEntry type="library" name="Maven: fr.minuskube.inv:smart-invs:1.2.7" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.8" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.spigotmc:spigot-api:1.12.2-R0.1-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: commons-lang:commons-lang:2.6" level="project" />

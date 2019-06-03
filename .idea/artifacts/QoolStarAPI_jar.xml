@@ -4,6 +4,7 @@
     <root id="archive" name="QoolStarAPI.jar">
       <element id="module-output" name="QoolStarAPI" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/fr/minuskube/inv/smart-invs/1.2.7/smart-invs-1.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/tr7zw/Item-NBT-API/item-nbt-api-plugin/master-6ef5af2093-1/item-nbt-api-plugin-master-6ef5af2093-1.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
